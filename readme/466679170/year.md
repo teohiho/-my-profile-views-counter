@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter)
 
-### :octocat: [teohiho](https://github.com/teohiho/teohiho)
-![Image of my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/graph/465599727/large/year.png)
+### :octocat: [teohiho.github.io](https://github.com/teohiho/teohiho.github.io)
+![Image of my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/graph/466679170/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>144</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/17 7:23 AM UTC</i></small>
+<small><i>Last updated on 2022/3/17 7:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/svg/465599727/badge.svg)](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/465599727/week.md)
+[![Image of my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/svg/466679170/badge.svg)](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/466679170/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/svg/465599727/badge.svg)](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/465599727/week.md)
+[![Image of my-profile-views-counter](https://github.com/teohiho/my-profile-views-counter/blob/master/svg/466679170/badge.svg)](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/466679170/week.md)
 ```
 ### Header
-# teohiho [<img alt="Image of my-profile-views-counter" src="https://github.com/teohiho/my-profile-views-counter/blob/master/graph/465599727/small/year.png" height="20">](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/465599727/year.md)
+# teohiho.github.io [<img alt="Image of my-profile-views-counter" src="https://github.com/teohiho/my-profile-views-counter/blob/master/graph/466679170/small/year.png" height="20">](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/466679170/year.md)
 ```readme
-# teohiho [<img alt="Image of my-profile-views-counter" src="https://github.com/teohiho/my-profile-views-counter/blob/master/graph/465599727/small/year.png" height="20">](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/465599727/year.md)
+# teohiho.github.io [<img alt="Image of my-profile-views-counter" src="https://github.com/teohiho/my-profile-views-counter/blob/master/graph/466679170/small/year.png" height="20">](https://github.com/teohiho/my-profile-views-counter/blob/master/readme/466679170/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
